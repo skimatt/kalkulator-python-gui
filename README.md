@@ -23,6 +23,7 @@ Kalkulator ini adalah aplikasi sederhana yang dibangun menggunakan Python dan li
 ## Cara Menggunakan
 
 1. **Jalankan Program**:
+
    - Pastikan Python sudah terinstal di sistem Anda.
    - Jalankan file `main.py` menggunakan perintah berikut di terminal:
      ```bash
